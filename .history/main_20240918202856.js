@@ -8,7 +8,7 @@ const saveEl = document.getElementById("save");
 const clearEl = document.getElementById("clear");
 
 const context = canvas.getContext("2d");
-
+    
 let size = 10;
 let isPressed = false;
 colorEl.value = "black";
